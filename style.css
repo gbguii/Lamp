@@ -1,0 +1,19 @@
+
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+
+button{
+    background-color: rgb(206, 206, 206);
+    width: 80px;
+    border: none;
+    border-radius: 3px ;
+}
+
+button:hover{
+    background-color:rgb(189, 188, 156) ;
+}
